@@ -1,0 +1,9 @@
+.imagen{
+    background-image: url(/img/header3.jpg);
+    height: 450px;
+    position: relative;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+}
+
